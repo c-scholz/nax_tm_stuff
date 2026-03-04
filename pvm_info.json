@@ -16,6 +16,14 @@
       "json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_tech.json",
       "sheet": "https://docs.google.com/spreadsheets/d/18iCfnvcRBmZW8fD3UzfZX17vCvH2OjDRm-XCQiQDNng/edit?usp=sharing",
       "discord": ""      
-    }
+    },
+	{
+		"name": "FullSpeed",
+		"id": 2,
+		"author": "Zimzalabim",
+		"json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_fs.json",
+		"sheet": "https://docs.google.com/spreadsheets/d/15Mf_jo_F7IGEtFPw-4XLMlY5CEhAgxBVzcvUnYKguPU/edit?usp=sharing",
+		"discord": ""
+	}
   ]
 }
